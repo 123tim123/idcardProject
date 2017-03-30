@@ -6,6 +6,9 @@
 > 3.浏览器运行权限必须以管理员身份运行
 
 ## 详细教程
+
+<img src = "./img/1/IMG_20170329_161151.jpg"></img>
+
 ### 第一步 下载开发所需的文件
  [进入华视官网下载页](http://www.chinaidcard.com/category/download/)  	
 这里是做html开发所以下载对应一下的文件
@@ -113,3 +116,4 @@ ClearForm();
 运行结果
 
 <img src = "./img/1/bg_1_20170330180826.jpg"></img>
+
